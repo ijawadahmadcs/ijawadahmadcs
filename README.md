@@ -124,13 +124,13 @@ const jawad = {
 ## 🎓 Education
 
 ```
-🎓 B.S. Computer Science                    CGPA: 3.77 / 4.0
+🎓 B.S. Computer Science                  
    COMSATS University Islamabad, Wah        2024 – Expected June 2028
    
    Courses: Programming Fundamentals (C++) · OOP (Java) · Database Systems
             Computer Networking · Digital Logic Design · Discrete Mathematics
 
-📘 HSSC (FCS)                               910 / 1100
+📘 HSSC (FCS)                             
    Scholars Science College, Wah Cantt      2022 – 2024
    
    Subjects: Computer Science · Mathematics · Physics
