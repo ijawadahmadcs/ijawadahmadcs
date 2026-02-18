@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Next.js+%26+React+Developer;Tailwind+CSS+Enthusiast;AI+%26+Vision+Explorer;Building+Human-Centered+Interfaces;CGPA%3A+3.77+%40+COMSATS+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Next.js+%26+React+Developer;Tailwind+CSS+Enthusiast;AI+%26+Vision+Explorer;Building+Human-Centered+Interfaces;COMSATS+University+Islamabad+Wah+Cantt" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ijawadahmadcs)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijawadahmadcs@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ijawadahmadcs&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -28,7 +27,6 @@
 const jawad = {
   role: "Frontend Web Developer & CS Student",
   university: "COMSATS University Islamabad, Wah Campus",
-  cgpa: 3.77,
   location: "Wah Cantt, Pakistan",
   currentFocus: [
     "AI-powered web applications (Gemini API)",
