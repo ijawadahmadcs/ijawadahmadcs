@@ -56,7 +56,6 @@ const jawad = {
 
 **Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,8 +68,6 @@ const jawad = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -91,6 +88,14 @@ const jawad = {
 - Applied UI/UX principles and integrated interactive components
 - Collaborated cross-functionally to implement and refine product features
 
+<table>
+  <tr>
+    <td>🏢</td>
+    <td><strong>ChangeMakers Ambassador</strong></td>
+    <td><strong>DataCrumbs</strong></td>
+    <td>Feb – March 2025 (6 Weeks)</td>
+  </tr>
+</table>
 ---
 
 ## 🌟 Featured Projects
