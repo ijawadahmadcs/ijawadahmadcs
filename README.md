@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Muhammad+Jawad+Ahmad;Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Beautiful+User+Experiences;AI+%26+Software+Engineering+Enthusiast;Firebase+%7C+MongoDB+%7C+SQL;Always+Learning%2C+Always+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Jawad+Ahmad;Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Beautiful+User+Experiences;AI+%26+Software+Engineering+Enthusiast;Firebase+%7C+MongoDB+%7C+SQL;Always+Learning%2C+Always+Building"
     alt="Typing SVG"
   />
 </a>
@@ -32,7 +32,7 @@ const jawad = {
   location: "Wah Cantt, Pakistan",
   currentFocus: [
     "AI-powered web applications (Gemini API)",
-    "Voice assistant systems",
+    "Legal assistant systems",
     "Computer vision & research",
     "Human-centered interfaces"
   ],
