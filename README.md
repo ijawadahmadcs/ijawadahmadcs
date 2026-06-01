@@ -5,9 +5,11 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Next.js+%26+React+Developer;Tailwind+CSS+Enthusiast;AI+%26+Vision+Explorer;Building+Human-Centered+Interfaces;COMSATS+University+Islamabad+Wah+Cantt" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Muhammad+Jawad+Ahmad;Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Beautiful+User+Experiences;AI+%26+Software+Engineering+Enthusiast;Firebase+%7C+MongoDB+%7C+SQL;Always+Learning%2C+Always+Building"
+    alt="Typing SVG"
+  />
 </a>
-
 <br/>
 
 <!-- Social Badges -->
@@ -44,8 +46,9 @@ const jawad = {
 
 <div align="center">
 
-**Frontend**
+## 🚀 Tech Stack
 
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,16 +57,27 @@ const jawad = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Tools**
+### Design & AI Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+### Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### State Management
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### Version Control & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Languages & AI/Research**
-
+### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -93,21 +107,29 @@ const jawad = {
     <td>🏢</td>
     <td><strong>ChangeMakers Ambassador</strong></td>
     <td><strong>DataCrumbs</strong></td>
-    <td>Feb – March 2025 (6 Weeks)</td>
+    <td>Feb – Mar 2025 (6 Weeks)</td>
   </tr>
 </table>
+
+- Represented the **ChangeMakers** initiative on campus, helping expand community engagement and participation
+- Organized and promoted **resume-building** and **LinkedIn optimization** masterclasses to enhance student career readiness
+- Connected students with valuable opportunities, including **CV banks**, professional resources, and mentorship programs
+- Encouraged professional growth through networking events, peer engagement, and career development initiatives
 ---
 
 ## 🌟 Featured Projects
-
-### 🌐 Frontend Projects
+### 🌐 Web Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| **[Clustr App](https://github.com/ijawadahmadcs)** | Twitter-like social platform with auth, posts, likes & comments | Next.js · Firebase · Redux · Tailwind |
-| **[Picksyy](https://github.com/ijawadahmadcs)** | Feature-rich e-commerce site with cart, dark/light mode & API fetching | Next.js · React · Tailwind |
-| **[RisexCreative](https://github.com/ijawadahmadcs)** | Freelance client portfolio with motion animations & video showcase | Next.js · Tailwind · Framer Motion |
-| **[GDG-CUIWAH Portfolio](https://github.com/ijawadahmadcs)** | University GDG chapter site showcasing events & activities | Next.js · Tailwind |
+|----------|-------------|-------|
+| **[PixelToPen](https://github.com/ijawadahmadcs)** | Converts typed text, PDF, and DOCX files into realistic handwritten assignments with notebook-style rendering and PDF export | Next.js · Tailwind CSS · Python |
+| **[IdeasPlanner](https://github.com/ijawadahmadcs)** | Productivity and planning platform featuring a professional UI redesign, intuitive navigation, and responsive user experience | Next.js · UI/UX Design |
+| **[RisexCreative](https://github.com/ijawadahmadcs)** | Cinematic digital agency portfolio with immersive user interfaces, responsive layouts, and polished animations | Next.js · Tailwind CSS |
+| **[E-Commerce Store](https://github.com/ijawadahmadcs)** | Modern storefront application with product browsing, shopping cart functionality, and theme switching optimized for performance | Next.js · JavaScript |
+| **[Clustr](https://github.com/ijawadahmadcs)** | Twitter-inspired social platform supporting authentication, posts, likes, comments, and social interactions | Next.js · Firebase · Redux · Tailwind CSS |
+| **[Rydex](https://github.com/ijawadahmadcs)** | Ride-sharing management system featuring booking workflows, payment processing, and separate admin/user interfaces | Java · MySQL |
+| **[Net-Spector](https://github.com/ijawadahmadcs)** | Interactive network traffic analyzer that visualizes packet flow across all five OSI model layers in real time | Python · Networking · Packet Analysis |
+
 
 ### 🔧 Software & Systems Projects
 
@@ -120,9 +142,9 @@ const jawad = {
 
 | Project | Status |
 |--------|--------|
-| 🎙️ Gemini Voice Assistant (Next.js + Vision) | 🟡 In Progress |
+| 🎙️ Ai powered Legal Assistant (Next.js + Python) | 🟡 In Progress |
 | 🧠 Parkinson's Gait Analysis via CCTV | 🟡 In Progress |
-| 🤖 AI-powered web prototypes | 🟡 In Progress |
+
 
 ---
 
