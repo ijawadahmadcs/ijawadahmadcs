@@ -1,14 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=JAWAD%20AHMAD&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Frontend%20Web%20Developer%20%C2%B7%20CS%20Undergraduate%20%C2%B7%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=52&descColor=e2e8f0&animation=twinkling" />
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Building+AI-Powered+Web+Applications;Turning+Figma+Designs+into+Pixel-Perfect+UIs" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,7C3AED,6D28D9&height=280&section=header&text=Jawad%20Ahmad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cyber-Security%20Enthusiast&descAlignY=58" />
+</p>
 <a href="https://www.linkedin.com/in/ijawadahmadcs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://ijawadahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/ijawadahmadcs"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
@@ -259,23 +253,25 @@ fun_fact: >
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ijawadahmadcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijawadahmadcs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ijawadahmadcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=ijawadahmadcs&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijawadahmadcs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ijawadahmadcs&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ijawadahmadcs&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ijawadahmadcs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ijawadahmadcs&theme=tokyo-night&hide_border=true"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ijawadahmadcs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
-
 <br/>
 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=120&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,7C3AED,6D28D9&height=140&section=footer"/>
+</p>
 
 **⭐ If you find my work interesting, consider giving my repos a star!**
 
