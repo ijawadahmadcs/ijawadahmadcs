@@ -1,226 +1,281 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jawad%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20CS%20Student&descAlignY=58&descColor=94a3b8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=JAWAD%20AHMAD&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Frontend%20Web%20Developer%20%C2%B7%20CS%20Undergraduate%20%C2%B7%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=52&descColor=e2e8f0&animation=twinkling" />
 
-<!-- Typing Animation -->
+
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Jawad+Ahmad;Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Beautiful+User+Experiences;AI+%26+Software+Engineering+Enthusiast;Firebase+%7C+MongoDB+%7C+SQL;Always+Learning%2C+Always+Building"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Building+AI-Powered+Web+Applications;Turning+Figma+Designs+into+Pixel-Perfect+UIs" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ijawadahmadcs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://ijawadahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/ijawadahmadcs"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:ijawadahmadcs@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijawadahmadcs/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://ijawadahmad.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ijawadahmadcs)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijawadahmadcs@gmail.com)
-
-
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+## 👋 About Me
 
-```typescript
-const jawad = {
-  role: "Frontend Web Developer & CS Student",
-  university: "COMSATS University Islamabad, Wah Campus",
-  location: "Wah Cantt, Pakistan",
-  currentFocus: [
-    "AI-powered web applications (Gemini API)",
-    "Legal assistant systems",
-    "Computer vision & research",
-    "Human-centered interfaces"
-  ],
-  funFact: "I turn Figma designs into pixel-perfect Next.js apps ⚡"
-};
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building responsive full-stack web apps and exploring how **AI, NLP, and symbolic reasoning** can solve real-world problems.
+
+- 🔭 Currently learning **App-Development**, Fluttter & Dart programming
+- 🧠 Also researching **Parkinson's gait analysis** using computer vision
+- 🌱 Sharpening my **DSA, systems programming, and computer vision** fundamentals
+- 💬 Ask me about **Next.js, React, Nodejs**, or full-stack development
+- 📍 Based in **Wah Cantt, Pakistan**
+- 📫 Reach me at **ijawadahmadcs@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Jawad Ahmad
+role: Frontend Web Developer
+degree: B.S. Computer Science
+university: COMSATS University Islamabad
+graduating: June 2028
+location: Wah Cantt, Pakistan
+fun_fact: >
+  Building scale-able full stack
+     web applications⚡
 ```
 
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-## 🚀 Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Design & AI Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### State Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=react&logoColor=white)
-
-### Version Control & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<table>
-  <tr>
-    <td>🏢</td>
-    <td><strong>Frontend Web Development Intern</strong></td>
-    <td><strong>Anemoia</strong></td>
-    <td>July – Aug 2025 (6 Weeks)</td>
-  </tr>
+</td>
+</tr>
 </table>
 
-- Built responsive, user-friendly layouts using **Next.js**, **Tailwind CSS**, and **JavaScript**
+<br/>
+
+## 🧰 Tech Stack
+
+<table width="100%">
+<tr><td>
+
+**Languages**
+<br/>
+
+<table>
+<tr>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=c" /><br/>C</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=cpp" /><br/>C++</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=java" /><br/>Java</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=py" /><br/>Python</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=dart" /><br/>Dart</td>
+</tr>
+</table>
+
+</td></tr>
+
+<tr><td>
+
+**Frontend**
+<br/>
+
+<table>
+<tr>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=html" /><br/>HTML5</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=css" /><br/>CSS3</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=redux" /><br/>Redux</td>
+</tr>
+</table>
+
+</td></tr>
+
+<tr><td>
+
+**Backend & Databases**
+<br/>
+
+<table>
+<tr>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+</tr>
+</table>
+
+</td></tr>
+
+<tr><td>
+
+**Design & Tools**
+<br/>
+
+<table>
+<tr>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
+<td align="center" width="96"><img width="40" src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code</td>
+</tr>
+</table>
+
+</td></tr>
+</table>
+
+**Also worked with:** Google Gemini API · Google Stitch · spaCy · SWI-Prolog · Context API · Jotai · MS Office
+
+<br/>
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="80px" align="center">🏢</td>
+<td>
+
+**Frontend Web Development Intern** — Anemoia
+<br/><sub>July 2025 – August 2025 · 6 Weeks</sub>
+
+- Built responsive, user-friendly layouts using Next.js, Tailwind CSS, and JavaScript
 - Applied UI/UX principles and integrated interactive components
-- Collaborated cross-functionally to implement and refine product features
+- Collaborated cross-functionally to refine product features and requirements
 
-<table>
-  <tr>
-    <td>🏢</td>
-    <td><strong>ChangeMakers Ambassador</strong></td>
-    <td><strong>DataCrumbs</strong></td>
-    <td>Feb – Mar 2025 (6 Weeks)</td>
-  </tr>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="80px" align="center">🌐</td>
+<td>
+
+**ChangeMakers Ambassador** — DataCrumbs
+<br/><sub>February 2026 – March 2026 · 6 Weeks (Remote)</sub>
+
+- Represented the ChangeMakers initiative on campus, expanding community engagement
+- Organized resume-building and LinkedIn optimization masterclasses
+- Connected students with CV banks, resources, and mentorship programs
+
+</td>
+</tr>
 </table>
 
-- Represented the **ChangeMakers** initiative on campus, helping expand community engagement and participation
-- Organized and promoted **resume-building** and **LinkedIn optimization** masterclasses to enhance student career readiness
-- Connected students with valuable opportunities, including **CV banks**, professional resources, and mentorship programs
-- Encouraged professional growth through networking events, peer engagement, and career development initiatives
----
+<br/>
 
-## 🌟 Featured Projects
-### 🌐 Web Projects
+## 🌟 Projects
 
-| Project | Description | Stack |
-|----------|-------------|-------|
-| **[PixelToPen](https://github.com/ijawadahmadcs)** | Converts typed text, PDF, and DOCX files into realistic handwritten assignments with notebook-style rendering and PDF export | Next.js · Tailwind CSS · Python |
-| **[IdeasPlanner](https://github.com/ijawadahmadcs)** | Productivity and planning platform featuring a professional UI redesign, intuitive navigation, and responsive user experience | Next.js · UI/UX Design |
-| **[RisexCreative](https://github.com/ijawadahmadcs)** | Cinematic digital agency portfolio with immersive user interfaces, responsive layouts, and polished animations | Next.js · Tailwind CSS |
-| **[E-Commerce Store](https://github.com/ijawadahmadcs)** | Modern storefront application with product browsing, shopping cart functionality, and theme switching optimized for performance | Next.js · JavaScript |
-| **[Clustr](https://github.com/ijawadahmadcs)** | Twitter-inspired social platform supporting authentication, posts, likes, comments, and social interactions | Next.js · Firebase · Redux · Tailwind CSS |
-| **[Rydex](https://github.com/ijawadahmadcs)** | Ride-sharing management system featuring booking workflows, payment processing, and separate admin/user interfaces | Java · MySQL |
-| **[Net-Spector](https://github.com/ijawadahmadcs)** | Interactive network traffic analyzer that visualizes packet flow across all five OSI model layers in real time | Python · Networking · Packet Analysis |
+<details open>
+<summary><b>🌐 Web Applications-(featured)</b></summary>
+<br/>
 
+<table width="100%">
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Stack</th></tr>
+<tr>
+<td>🩺 <b>LawMate</b></td>
+<td>AI-powered cyber legal expert system — extracts legal facts via NLP from English/Roman Urdu narratives, then delivers explainable legal reasoning, severity scoring & evidence guidance</td>
+<td>FastAPI · Next.js · MongoDB · Gemini · spaCy · SWI-Prolog</td>
+</tr>
+<tr>
+<td>✍️ <b>PixelToPen</b></td>
+<td>Converts typed text, PDF & DOCX files into realistic handwritten assignments with notebook-style rendering and PDF export</td>
+<td>Next.js · Tailwind CSS · Python</td>
+</tr>
+<tr>
+<td>🔍 <b>Net-Spector</b></td>
+<td>Interactive network traffic analyzer visualizing packet flow across all 5 OSI layers in real time</td>
+<td>Python · Networking · Packet Analysis</td>
+</tr>
+</table>
 
-### 🔧 Software & Systems Projects
+</details>
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Rydex** | Full-stack ride management with booking, fare calc & payment lifecycle | Java · Java Swing · MySQL |
-| **Travel & Tour Management** | Console-based system with CRUD, login & package booking | C++ |
+<details open>
+<summary><b>🔧 Software & Systems</b></summary>
+<br/>
 
-### 🔬 Current Research & Builds
+<table width="100%">
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Stack</th></tr>
+<tr>
+<td>🚕 <b>Rydex</b></td>
+<td>Full-stack ride management system with booking workflows, fare calculation, and payment lifecycle across admin/user interfaces</td>
+<td>Java · Java Swing · MySQL</td>
+</tr>
+<tr>
+<td>🧳 <b>Travel & Tour Management</b></td>
+<td>Console-based system with CRUD operations, login authentication & package booking</td>
+<td>C++</td>
+</tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🔬 Current Research </b></summary>
+<br/>
 
 | Project | Status |
-|--------|--------|
-| 🎙️ Ai powered Legal Assistant (Next.js + Python) | 🟡 In Progress |
-| 🧠 Parkinson's Gait Analysis via CCTV | 🟡 In Progress |
+|---|---|
+| 🧠 Parkinson's Gait Analysis (Computer Vision) | 🟡 In Progress |
 
+</details>
 
----
+<br/>
 
-## 🎓 Education
+## 📜 Certifications & Activities
 
-```
-🎓 B.S. Computer Science                  
-   COMSATS University Islamabad, Wah        2024 – Expected June 2028
-   
-   Courses: Programming Fundamentals (C++) · OOP (Java) · Database Systems
-            Computer Networking · Digital Logic Design · Discrete Mathematics
+<table width="100%">
+<tr valign="top">
+<td width="50%">
 
-📘 HSSC (FCS)                             
-   Scholars Science College, Wah Cantt      2022 – 2024
-   
-   Subjects: Computer Science · Mathematics · Physics
-```
+**Certifications**
+- 🟦 Fundamentals of UI/UX Design — Microsoft
+- 🐍 Python Basics — University of Michigan
+- 🌐 HTML, CSS & JavaScript for Web Developers — Johns Hopkins University
+- 🎨 Google Stitch — DataCrumbs
+- 💻 Web Development Bootcamp — GDGoC CUI Wah
+- ⚛️ React Bootcamp — GDGoC CUI Wah
 
----
+</td>
+<td width="50%">
+
+**Co-Curricular Activities**
+- 🎥 Media Manager — COMSATS Heritage Society
+- 📣 Marketing Co-Lead — Student Startup Business Society
+- 🏆 Senior Media Member — COMSATS Sports Society
+- 🌐 General Member — GDGoC CUI Wah
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ijawadahmadcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijawadahmadcs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ijawadahmadcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijawadahmadcs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=ijawadahmadcs&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ijawadahmadcs&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ijawadahmadcs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ijawadahmadcs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
-[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ijawadahmadcs&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ijawadahmadcs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/ijawadahmadcs](https://www.linkedin.com/in/ijawadahmadcs/) |
-| 🌐 Portfolio | [ijawadahmad.vercel.app](https://ijawadahmad.vercel.app) |
-| 📧 Email | [ijawadahmadcs@gmail.com](mailto:ijawadahmadcs@gmail.com) |
-| 🐙 GitHub | [github.com/ijawadahmadcs](https://github.com/ijawadahmadcs) |
-| 📍 Location | Wah Cantt, Pakistan |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=120&section=footer" />
 
 **⭐ If you find my work interesting, consider giving my repos a star!**
 
